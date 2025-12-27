@@ -1,5 +1,5 @@
 # ALX AWS Track – Terraform Projects
-
+## Challenge (Cafe) lab: Creating a VPC Networking Environment for the Café
 This repository contains multiple projects built using **Terraform** to implement concepts and labs from the **ALX AWS Track**.
 
 Each project focuses on designing and deploying real AWS infrastructure using **Infrastructure as Code (IaC)** and cloud best practices.
@@ -32,19 +32,3 @@ Everything is written in Terraform and designed to be:
 - Version controlled
 - Easy to destroy and rebuild
 - Close to real production design
-
----
-
-## 🗂️ Repository Structure
-
-Each folder represents an independent Terraform project.
-
-```bash
-.
-├── week5/Module 7
-│   ├── main.tf
-│   ├── network.tf
-│   ├── provider.tf
-│   ├── Keys.tf
-│
-└── README.md  (you are here)
