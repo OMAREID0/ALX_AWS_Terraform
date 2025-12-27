@@ -32,3 +32,8 @@ Everything is written in Terraform and designed to be:
 - Version controlled
 - Easy to destroy and rebuild
 - Close to real production design
+
+---
+## Architecture Diagram
+
+![VPC Networking Environment architecture](/images/module-7-challenge-lab-private-to-test.png)

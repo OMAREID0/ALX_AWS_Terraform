@@ -42,9 +42,12 @@ The infrastructure includes:
 
 ---
 
-<p align="center">
-  <img src="images/image.png" width="600">
-</p>
+## Architecture Diagram
+
+![S3 static website Deploying](/images/image.png)## Architecture Diagram
+---
+
+![S3 static website architecture](/images/mod-4-challenge-lab-cafe-static-website-architecture.png)
 
 ---
 ## Prerequisites
